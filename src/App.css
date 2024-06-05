@@ -7,6 +7,9 @@
   pointer-events: none;
 }
 
+.thead-styling{
+  background-color: #0d6efd;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
